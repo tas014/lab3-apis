@@ -1,3 +1,6 @@
 # lab-3-apis
+<<<<<<< HEAD
  Ejercicio de Lab para probar apis externas usando React
- // Modificacion para testear el funcionamiento de fork en gitHub
+=======
+ Ejercicio de Lab colaborativo para probar apis externas usando React
+>>>>>>> upstream/master
